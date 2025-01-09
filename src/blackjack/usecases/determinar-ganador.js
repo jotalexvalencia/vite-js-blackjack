@@ -20,5 +20,5 @@ export const determinarGanador = (puntosJugadores) => {
             const ganador = puntosComputadora > puntosMinimos ? 'Computadora gana 💻' : 'Jugador Gana 😂';
             alert(ganador);
         }
-    }, 100);
+    }, 300);
 };
