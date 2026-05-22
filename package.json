@@ -12,6 +12,6 @@
     "vite": "^6.4.2"
   },
   "dependencies": {
-    "underscore": "^1.13.7"
+    "underscore": "^1.13.8"
   }
 }
